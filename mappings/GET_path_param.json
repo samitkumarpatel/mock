@@ -12,7 +12,7 @@
     "response": {
         "status": 200,
         "jsonBody" : {
-            
+            "name" : "samit"
         }
     }
 }

@@ -1,0 +1,10 @@
+{
+    "request": {
+        "method": "GET",
+        "url": "/base64"
+    },
+    "response": {
+        "status": 200,
+        "base64Body": "WUVTIElOREVFRCE="
+    }
+}
