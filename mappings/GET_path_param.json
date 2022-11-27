@@ -1,0 +1,18 @@
+{
+    "request": {
+        "urlPathPattern": "/the/.*/one",
+        "method": "GET",
+        "customMatcher": {
+            "name": "path-contains-param",
+            "parameters": {
+                "path": "correct"
+            }
+        }
+    },
+    "response": {
+        "status": 200,
+        "jsonBody" : {
+            
+        }
+    }
+}
